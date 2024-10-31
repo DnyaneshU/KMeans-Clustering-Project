@@ -1,4 +1,6 @@
- K-Means Clustering Project
+## K-Means Clustering Project
+-----------------------------
+
 
 This project applies the **K-Means Clustering** algorithm on the popular **Iris Dataset** to demonstrate how unsupervised learning can be used for clustering. To know more details about this algorithm, you can check out my detailed post on medium: 
 
