@@ -67,8 +67,11 @@ To set up this project, follow these steps:
 ## Results
 
 - **Elbow Method:** The Elbow Method helps determine the optimal number of clusters by calculating the Within-Cluster Sum of Squares (WCSS) for different values of k. The "elbow" point in the graph represents the ideal number of clusters where adding more clusters doesn't significantly reduce WCSS, indicating an optimal grouping.
+  ![Elbow Method Plot](https://github.com/DnyaneshU/KMeans-Clustering-Project/blob/main/Results/k-means%20elbow%20method.png?raw=true)
 
 - **K-Means Clustering Visualization:** Once the optimal k value is selected, we apply the K-Means algorithm to cluster the iris samples. The final clusters are visualized on a scatter plot, where each color represents a different cluster, providing a clear separation of data points based on their similarities.
+  ![Data clustering Plot](https://github.com/DnyaneshU/KMeans-Clustering-Project/blob/main/Results/Clustering%20Visualisation.png?raw=true)
+
 
 - **Centroid Calculation:** The algorithm also calculates centroids for each cluster, which are displayed as large points on the plot. These centroids represent the "center" of each cluster, helping to interpret the central tendency of each group.
 
